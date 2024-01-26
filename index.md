@@ -1,6 +1,6 @@
 ---
-title: Welcome to my blog
+Axaxaxa mlö: Welcome to my blog
 ---
-# Axaxaxa mlö
+# The ghosts that therefore I am following
 
-Ideas
+Ideas 1
