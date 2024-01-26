@@ -1,7 +1,6 @@
 ---
 title: Welcome to my blog
 ---
-#H1
-Axaxaxa mlö
+# Axaxaxa mlö
 
 Ideas
